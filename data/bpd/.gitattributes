@@ -1,0 +1,2 @@
+raw/*.csv -text
+raw/*.csv.gz binary
